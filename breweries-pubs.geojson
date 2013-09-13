@@ -433,6 +433,25 @@
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.729334,
+          39.963257
+        ]
+      },
+      "properties": {
+        "Name": "Mudhook Brewing Co.",
+        "City": "York",
+        "URL": "http://mudhookbrewing.com/",
+        "Facebook": "http://www.facebook.com/pages/Mudhook-Brewing-Co/363101597541",
+        "Twitter": "https://twitter.com/#!/MudhookBrewing",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
     }
  ]
 }
