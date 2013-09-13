@@ -471,6 +471,25 @@
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.287425,
+          40.244419
+        ]
+      },
+      "properties": {
+        "Name": "Round Guys Brewing Company",
+        "City": "Lansdale",
+        "URL": "http://roundguysbrewery.com/",
+        "Facebook": "https://www.facebook.com/Roundguys",
+        "Twitter": "http://www.twitter.com/roundguysbrewer",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
     }
  ]
 }
