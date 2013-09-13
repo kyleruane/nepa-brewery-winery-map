@@ -397,6 +397,7 @@
         "marker-color": "#ffaa00"
       }
     },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -410,6 +411,25 @@
         "City": "York",
         "URL": "http://www.liquidhero.com/",
         "Facebook": "http://www.facebook.com/liquidhero",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.219809,
+          40.023392
+        ]
+      },
+      "properties": {
+        "Name": "Manayunk Brewing Company",
+        "City": "Philadelphia",
+        "URL": "http://www.manayunkbrewery.com/",
+        "Facebook": "http://www.facebook.com/pages/Philadelphia-PA/Manayunk-Brewery-and-Restaurant/42338591948",
+        "Twitter": "http://twitter.com/manayunkbrewery",
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
