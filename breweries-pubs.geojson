@@ -396,6 +396,23 @@
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
+    },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.727832,
+          39.967418
+        ]
+      },
+      "properties": {
+        "Name": "Liquid Hero Brewing Company",
+        "City": "York",
+        "URL": "http://www.liquidhero.com/",
+        "Facebook": "http://www.facebook.com/liquidhero",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
     }
  ]
 }
