@@ -490,6 +490,24 @@
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.134356,
+          40.039345
+        ]
+      },
+      "properties": {
+        "Name": "Rumspringa Brewing Company",
+        "City": "Bird in Hand",
+        "URL": "http://www.lancaster-gallery.com/",
+        "Facebook": "https://www.facebook.com/pages/Mount-Hope-Wine-Gallery/178513435537922",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
     }
  ]
 }
