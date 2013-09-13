@@ -453,5 +453,24 @@
         "marker-color": "#ffaa00"
       }
     }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.876735,
+          39.985834
+        ]
+      },
+      "properties": {
+        "Name": "Proletariat Brewing Company",
+        "City": "Coatesville",
+        "URL": "http://www.proletariatbrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/proletariatbrewingcompany",
+        "Twitter": "https://twitter.com/ProletariatBrew",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
  ]
 }
